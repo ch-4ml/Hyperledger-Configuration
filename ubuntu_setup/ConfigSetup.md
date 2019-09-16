@@ -23,3 +23,4 @@ https://www.virtualbox.org/wiki/Downloads
 - 기타 개인 로그인 설정 및 기본 설정
 
 # 설치완료
+[다음 과정(우분투 설정 추가 및 변경)](./ChangeConfig.md)
