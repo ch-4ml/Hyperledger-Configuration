@@ -1,1 +1,1 @@
-"# Hyperledger-Configuration" 
+# Hyperledger-Configuration
