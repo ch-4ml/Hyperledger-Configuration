@@ -53,7 +53,7 @@ $ sudo ln -s /usr/local/go/bin/go /usr/local/bin/go
 $ vi ~/.profile
 ```
 아래 내용 추가
-``` vi
+``` vim
 export GOPATH=$HOME/go
 export PATH=$PATH:/usr/local/go/bin:$GOPATH/bin
 ```
@@ -89,3 +89,4 @@ v8.11.1
 $ npm -v
 5.6.0
 ```
+[다음 과정(패브릭 설치)](./InstallFablic.md)
