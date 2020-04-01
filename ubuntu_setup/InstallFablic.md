@@ -1,4 +1,4 @@
-# Fablic-Samples 설치
+# Fabric-Samples 설치
 
 ## Fabric-Sample 설치
 ### 아래 링크의 원본 링크 : https://raw.githubusercontent.com/hyperledger/fabric/master/scripts/bootstrap.sh
@@ -14,7 +14,7 @@ export PATH=$PATH:/usr/local/go/bin:$GOPATH/bin:~/fabric-samples/bin;
 $ source ~/.profile
 ``` 
 
-## 설치 완료후 Fablic Sample 디렉토리 구조 탐색
+## 설치 완료후 Fabric Sample 디렉토리 구조 탐색
 ``` cmd
 tree 패키지가 설치 안되어있어 설치
 $ sudo apt install tree
