@@ -18,7 +18,7 @@ $ source ~/.profile
 ``` cmd
 tree 패키지가 설치 안되어있어 설치
 $ sudo apt install tree
-$ Tree -L 1 fabric-samples/
+$ tree -L 1 fabric-samples/
 결과는 images 폴더의 Fabric-Samples 사진 참고
 ```
 
