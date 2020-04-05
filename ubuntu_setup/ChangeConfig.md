@@ -89,4 +89,4 @@ v8.11.1
 $ npm -v
 5.6.0
 ```
-[다음 과정(패브릭 설치)](./InstallFablic.md)
+[다음 과정(패브릭 설치)](./InstallFabric.md)
