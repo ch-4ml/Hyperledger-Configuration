@@ -3,7 +3,7 @@
 ## Fabric-Sample 설치
 ### 아래 링크의 원본 링크 : https://raw.githubusercontent.com/hyperledger/fabric/master/scripts/bootstrap.sh
 ```cmd
-$ sudo curl -sSL http://bit.ly/2ysbOFE | bash -s
+$ sudo curl -sSL http://bit.ly/2ysbOFE | bash -s -- [fabric version] [ca version] [third party version]
 $ vi ~/.profile
 ```
 ```vim
